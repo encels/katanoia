@@ -509,7 +509,7 @@ display:none;
 .container.txtblock p.lead { color:#CCCCCC; font-weight: 300; font-size: 28px; line-height: 52px; letter-spacing: -1px; max-width:900px; margin: 0 auto; text-align: left; font-family: 'Merriweather', Georgia, serif; padding: 0 0 0 100px;}
 .container.txtblock a {color:#fff; font-weight: 400;}
 .container.txtblock a:hover {color:#0088aa; text-decoration:none;}
-.container.txtblock.nrtwo {}
+.container.txtblock.nrtwo {background:#23231F url('bg_block3.jpg') left center no-repeat;}
 .container.txtblock.nrthree {background:#23231F url('bg_block2.jpg') left center no-repeat;}
 
 /* SOCIAL
